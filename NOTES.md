@@ -1,0 +1,1 @@
+# activate virtual environment -> source activate flower_tutorial

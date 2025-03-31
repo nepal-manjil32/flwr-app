@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-03-31T19:40:12.265048Z",
+  "args": [
+    "--app",
+    ".",
+    "--num-supernodes",
+    "10"
+  ],
+  "program": "/opt/anaconda3/envs/flower_tutorial/bin/flower-simulation",
+  "email": "nepal.manjil3294@gmail.com",
+  "root": "/Users/manjilnepal/Desktop/Desktop - Manjil’s MacBook Air/PyTorch/Flower/flwr-app",
+  "host": "Manjils-MacBook-Air.local",
+  "executable": "/opt/anaconda3/envs/flower_tutorial/bin/python3.12",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "225418944512"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "225418944512"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "7516192768",
+    "ramTotalBytes": "8589934592"
+  }
+}
